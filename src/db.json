@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "name": "ajj",
+      "password": "778",
+      "id": 1
+    },
+    {
+      "name": "batta",
+      "password": "abcd123",
+      "id": 2
+    },
+    {
+      "name": "batta",
+      "password": "8009",
+      "id": 3
+    },
+    {
+      "name": "batta",
+      "password": "988",
+      "id": 4
+    },
+    {
+      "name": "batta",
+      "password": "4565",
+      "id": 5
+    },
+    {
+      "name": "babulua",
+      "password": "788",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    background-color: aquamarine;
+}
+.container{
+    margin-left: 10;
+    margin-right: 10%;
+
+}
+.form-form{
+    text-align: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 400px;
+}
+.form-input{
+    height: 35px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    
+    padding-left: 10px;
+    border:1px solid yellowgreen;
+    color: darkorange;
+}
+.button-in{
+    width: 3opx;
+    height: 50px;
+    background-color: aqua;
+    color: brown;
+}
+
+
+
+
+
+
+
+
+
